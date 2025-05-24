@@ -1,0 +1,154 @@
+{
+    // Use IntelliSense para saber los atributos posibles.
+    // Mantenga el puntero para ver las descripciones de los existentes atributos.
+    // Para más información, visite: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "arregloString",
+            "request": "launch",
+            "mainClass": "arregloString",
+            "projectName": "Proyecto_Muestras_de_Agua_718fc64"
+        },
+        {
+            "type": "java",
+            "name": "GUI",
+            "request": "launch",
+            "mainClass": "GUI",
+            "projectName": "Proyecto_Muestras_de_Agua_718fc64"
+        },
+        {
+            "type": "java",
+            "name": "appMuestrasAgua",
+            "request": "launch",
+            "mainClass": "appMuestrasAgua",
+            "projectName": "Proyecto_Muestras_de_Agua_718fc64"
+        },
+        {
+            "type": "java",
+            "name": "ejemploArregloDesplazarPosicion2",
+            "request": "launch",
+            "mainClass": "ejemploArregloDesplazarPosicion2",
+            "projectName": "Udemy_Arreglo_Practica_8b918827"
+        },
+        {
+            "type": "java",
+            "name": "ejemploArregloDesplazarPosicion",
+            "request": "launch",
+            "mainClass": "ejemploArregloDesplazarPosicion",
+            "projectName": "Udemy_Arreglo_Practica_8b918827"
+        },
+        {
+            "type": "java",
+            "name": "ejemploArregloBuscarEntero",
+            "request": "launch",
+            "mainClass": "ejemploArregloBuscarEntero",
+            "projectName": "Udemy_Arreglo_Practica_8b918827"
+        },
+        {
+            "type": "java",
+            "name": "ejemploArregloForInversoMutable",
+            "request": "launch",
+            "mainClass": "ejemploArregloForInversoMutable",
+            "projectName": "Udemy_Arreglo_Practica_8b918827"
+        },
+        {
+            "type": "java",
+            "name": "ejemploArregloForInverso",
+            "request": "launch",
+            "mainClass": "ejemploArregloForInverso",
+            "projectName": "Udemy_Arreglo_Practica_8b918827"
+        },
+        {
+            "type": "java",
+            "name": "ejemploArregloFor",
+            "request": "launch",
+            "mainClass": "ejemploArregloFor",
+            "projectName": "Udemy_Arreglo_Practica_8b918827"
+        },
+        {
+            "type": "java",
+            "name": "arregloString",
+            "request": "launch",
+            "mainClass": "arregloString",
+            "projectName": "Udemy_Arreglo_Practica_8b918827"
+        },
+        {
+            "type": "java",
+            "name": "ejemploArreglos",
+            "request": "launch",
+            "mainClass": "ejemploArreglos",
+            "projectName": "Udemy_Arreglo_Practica_8b918827"
+        },
+        {
+            "type": "java",
+            "name": "inicializacion",
+            "request": "launch",
+            "mainClass": "inicializacion",
+            "projectName": "Udemy_Arreglo_Practica_8b918827"
+        },
+        {
+            "type": "java",
+            "name": "PParcialJulian",
+            "request": "launch",
+            "mainClass": "PParcialJulian",
+            "projectName": "Fundamentos_de_Programacion_71661e72"
+        },
+        {
+            "type": "java",
+            "name": "PParcialJulianBernal",
+            "request": "launch",
+            "mainClass": "PParcialJulianBernal",
+            "projectName": "Fundamentos_de_Programacion_71661e72"
+        },
+        {
+            "type": "java",
+            "name": "arreglo03",
+            "request": "launch",
+            "mainClass": "arreglo03",
+            "projectName": "Fundamentos_de_Programacion_71661e72"
+        },
+        {
+            "type": "java",
+            "name": "ejerCuatro",
+            "request": "launch",
+            "mainClass": "ejerCuatro",
+            "projectName": "Fundamentos_de_Programacion_71661e72"
+        },
+        {
+            "type": "java",
+            "name": "ejerTres",
+            "request": "launch",
+            "mainClass": "ejerTres",
+            "projectName": "Fundamentos_de_Programacion_71661e72"
+        },
+        {
+            "type": "java",
+            "name": "appModular",
+            "request": "launch",
+            "mainClass": "appModular",
+            "projectName": "Fundamentos_de_Programacion_71661e72"
+        },
+        {
+            "type": "java",
+            "name": "ejerDos",
+            "request": "launch",
+            "mainClass": "ejerDos",
+            "projectName": "Fundamentos_de_Programacion_71661e72"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ejerUno",
+            "request": "launch",
+            "mainClass": "ejerUno",
+            "projectName": "Fundamentos_de_Programacion_71661e72"
+        }
+    ]
+}
